@@ -1,0 +1,15 @@
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\bin\Debug\net6.0\DaysCalcy.exe
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\bin\Debug\net6.0\DaysCalcy.deps.json
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\bin\Debug\net6.0\DaysCalcy.runtimeconfig.json
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\bin\Debug\net6.0\DaysCalcy.dll
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\bin\Debug\net6.0\DaysCalcy.pdb
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.csproj.AssemblyReference.cache
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.AssemblyInfoInputs.cache
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.AssemblyInfo.cs
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.csproj.CoreCompileInputs.cache
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.dll
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\refint\DaysCalcy.dll
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.pdb
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\DaysCalcy.genruntimeconfig.cache
+D:\CoderOm\C# Dot Net\DaysCalcy\DaysCalcy\DaysCalcy\obj\Debug\net6.0\ref\DaysCalcy.dll
